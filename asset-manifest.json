@@ -6,6 +6,7 @@
   "/p__ifo.js": "/p__ifo.async.js",
   "/p__index.css": "/p__index.chunk.css",
   "/p__index.js": "/p__index.async.js",
+  "/p__nft.js": "/p__nft.async.js",
   "/p__pool.js": "/p__pool.async.js",
   "/p__pools.js": "/p__pools.async.js",
   "/umi.css": "/umi.css",
@@ -13,5 +14,6 @@
   "/index.html": "/index.html",
   "/static/global.css": "/static/logo.f8195f8b.png",
   "/static/coinLogo.png": "/static/coinLogo.62a932f9.png",
+  "/static/nft-banner.jpg": "/static/nft-banner.8e3aad4c.jpg",
   "/static/index.css": "/static/yay.05eb60c6.jpg"
 }
